@@ -1,3 +1,0 @@
-/home/anthony/Documents/CPP/cpp/is_prime_prog/CMakeFiles/rebuild_cache.dir
-/home/anthony/Documents/CPP/cpp/is_prime_prog/CMakeFiles/edit_cache.dir
-/home/anthony/Documents/CPP/cpp/is_prime_prog/CMakeFiles/main.dir

@@ -1,3 +1,0 @@
-/home/anthony/Documents/CPP/cpp/find_motive/build/CMakeFiles/rebuild_cache.dir
-/home/anthony/Documents/CPP/cpp/find_motive/build/CMakeFiles/edit_cache.dir
-/home/anthony/Documents/CPP/cpp/find_motive/build/CMakeFiles/main.dir
